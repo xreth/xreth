@@ -4,20 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/qmze" target="blank"><img src="https://img.shields.io/twitter/follow/qmze?logo=twitter&style=for-the-badge" alt="qmze" /></a> </p>
 
-- 🔭 I’m currently working on python **velvet watches**
-
-- 🌱 I’m currently learning c# **flask**
-
-- 👯 I’m looking to collaborate on C **velvet charity**
-
-- 👨‍💻 All of my projects are available on my portfolio [https://www.velvetcharity.com/](https://www.velvetcharity.com/)
-
-- 💬 Ask me about css **react**
-
-- 📫 How to reach me discord **qmze@qmze.com**
-
-- ⚡ Fun facts about me **I have been learning python for 3 years**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/qmze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qmze" height="30" width="40" /></a>
