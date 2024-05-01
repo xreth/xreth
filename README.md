@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm qmze</h1>
 <h3 align="center">A passionate frontend developer from the Uk</h3>
-<img align="right" alt="coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<style>.blood{
+  text-aligne: center;
+}</style>
+<img class="blood" align="center" alt="coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <a href="https://twitter.com/qmze" target="blank"><img src="https://img.shields.io/twitter/follow/qmze?logo=twitter&style=for-the-badge" alt="qmze" /></a> </p>
 
