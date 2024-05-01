@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm qmze</h1>
 <h3 align="center">A passionate frontend and backend developer from the Uk.</h3>
-<img align="right" src="https://i.makeagif.com/media/9-02-2016/ij0LMG.gif">
+<img src="https://i.makeagif.com/media/9-02-2016/ij0LMG.gif">
 <p align="left"> <a href="https://twitter.com/qmze" target="blank"><img src="https://img.shields.io/twitter/follow/qmze?logo=twitter&style=for-the-badge" alt="qmze" /></a> </p>
 
 - 🔭 I’m currently working on python [velvet watches](https://www.velvetwatches.com/)
