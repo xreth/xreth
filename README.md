@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm qmze</h1>
+<h1 align="center">Hi 👋, I'm Xreth</h1>
 <h3 align="center">A passionate frontend and backend developer from the Uk.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qmze&label=Page%20views&color=b4cbd9&style=flat" alt="qmze" /> </p>
