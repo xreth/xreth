@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qmze&label=Page%20views&color=b4cbd9&style=flat" alt="qmze" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect</h3>
 <p align="left">
 <a href="https://codepen.io/qmze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qmze" height="30" width="40" /></a>
 <a href="https://twitter.com/qmze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qmze" height="30" width="40" /></a>
